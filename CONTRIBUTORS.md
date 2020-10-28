@@ -1972,3 +1972,7 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+#### Name: [Ahsan Khan](github.com/ahsan051298)
+- Place: Mumbai,India
+- Bio: MCA
+- GitHub: [Ahsan Khan](github.com/ahsan051298)
