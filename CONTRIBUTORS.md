@@ -2428,35 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 #### Name: [Ahsan Khan](https://github.com/ahsan051298)
-- Place: Natal, Brazil
-- Bio: Web developer PHP and Python
-- Github: [Ahsan Khan](https://github.com/ahsan051298)
-#### Name: [Ahsan Khan](https://github.com/ahsan051298)
-- Place: Nashik,Mumbai
-- Bio: Web developer PHP and Python
+- Place: Nashik, India
+- Bio: MCA
 - Github: [Ahsan Khan](https://github.com/ahsan051298)
 
-#### Name: [Ahsan Khan] (https://github.com/ahsan051298)
-- Place: Mumbai
-- Bio: MCA
-- GitHub: [Ahsan Khan] (https://github.com/ahsan051298)
-#### Name: [Ahsan Khan] (https://github.com/ahsan051298)
-- Place: Mumbai
-- Bio: MCA
-- GitHub: [Ahsan Khan] (https://github.com/ahsan051298)
-#### Name: [Ahsan Khan] (github.com/ahsan051298)
-- Place: Mumbai
-- Bio: MCA
-- GitHub: [Ahsan Khan] (github.com/ahsan051298)
-#### Name: [Ahsan Khan] (https://github.com/ahsan051298)
-- Place: Mumbai
-- Bio: MCA
-- GitHub: [Ahsan Khan] (https://github.com/ahsan051298)
-#### Name: [Ahsan Khan] (https://github.com/ahsan051298)
-- Place: Mumbai
-- Bio: MCA
-- GitHub: [Ahsan Khan] (https://github.com/ahsan051298)
-#### Name: [Ahsan Khan](https://github.com/ahsan051298)
-- Place: Mumbai
-- Bio: MCA
-- GitHub: [Ahsan Khan](https://github.com/ahsan051298)
