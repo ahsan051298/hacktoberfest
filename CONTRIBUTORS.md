@@ -17,6 +17,10 @@
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+#### Name: [Ahsan Khan](https://github.com/ahsan051298)
+- Place: India, Mumbai
+- Bio: MCA
+- GitHub: [Ahsan Khan](https://github.com/ahsan051298)
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
